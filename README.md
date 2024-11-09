@@ -118,6 +118,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanfour5&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/bachutearyan)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanfour5&show_icons=true&locale=en" alt="GitHub Stats"/>
