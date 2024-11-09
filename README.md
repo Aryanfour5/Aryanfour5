@@ -11,10 +11,10 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Classification**.
-- 🌱 I’m currently learning **Classification**.
-- 👯 I’m looking to collaborate on **Any AI/ML and Web Development projects**.
-- 💬 Ask me about **React, Node.js, MySQL, and Express**.
+- 🔭 I’m currently working on **Classification** projects.
+- 🌱 I’m currently learning **Classification techniques**.
+- 👯 I’m looking to collaborate on **AI/ML and Web Development projects**.
+- 💬 Ask me about **React, Node.js, MySQL, Express, and more**.
 - 📫 How to reach me: [bachutearyan@gmail.com](mailto:bachutearyan@gmail.com).
 
 <h3 align="center">Connect with me:</h3>
@@ -110,20 +110,16 @@
   <a href="https://svelte.dev" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanfour5&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
-![LeetCode Stats](https://leetcard.jacoblin.cool/bachutearyan)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanfour5&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanfour5&show_icons=true&locale=en&layout=compact" alt="Aryan's Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanfour5" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanfour5&show_icons=true&locale=en" alt="Aryan's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanfour5&" alt="Aryan's Streak Stats"/>
 </p>
