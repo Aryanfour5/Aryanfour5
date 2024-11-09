@@ -112,6 +112,8 @@
   </a>
 </p>
 
+<h3 align="center">GitHub and LeetCode Stats:</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanfour5&show_icons=true&locale=en&layout=compact" alt="Aryan's Top Languages"/>
 </p>
@@ -122,4 +124,9 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanfour5&" alt="Aryan's Streak Stats"/>
+</p>
+
+<p align="center">
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/bachutearyan?theme=dark&font=Baloo%202&ext=heatmap" alt="Aryan's LeetCode Stats"/>
 </p>
